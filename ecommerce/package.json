@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@next/font": "13.1.0",
+    "@sanity/client": "^7.12.0",
+    "@sanity/image-url": "^1.2.0",
     "@stripe/react-stripe-js": "^1.16.1",
     "@stripe/stripe-js": "^1.46.0",
     "canvas-confetti": "^1.6.0",
